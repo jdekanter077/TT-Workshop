@@ -14,7 +14,7 @@ Thers is a FF, with Data_in at input 2 and clock at input 3 to Output 3. This FF
 
 ## How to test
 
-does it remeber the data on the clock
+does it "remeber" the data on the clock
 
 ## External hardware
 
