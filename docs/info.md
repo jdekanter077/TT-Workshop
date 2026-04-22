@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+There is a OR-Gate from input 0 and input 1 --> Output 0 & 1 (shared)
+Thers is a FF, with Data_in at input 2 and clock at input 3 to Output 3. This FF saves any data that was present on a (falling) clock edge
 
 ## How to test
 
-Explain how to use your project
+does it remeber the data on the clock
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-segment display
