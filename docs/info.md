@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-UART Reciever
+UART Reciever, like the one i build in high school :)
 
 ## How to test
 
